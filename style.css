@@ -1,0 +1,57 @@
+.error {
+    font-size: 15px !important;
+    color: red !important;
+}
+
+body {
+    background-color: black;
+    margin-left:400px;
+    margin-top: 200px;
+    margin-right:auto;
+    font-size: 25px;
+    font-family: Georgia;
+    color: white;
+}
+
+#pk {
+    margin-left: 157px;
+    border-radius: 5px;
+    outline: none;
+    border: solid 1px black;
+    font-family: Georgia;
+    width: 80px;
+    height: 30px;
+    font-size: 25px;
+}
+
+#pev {
+    border-radius: 5px;
+    outline: none;
+    border: solid 1px black;
+    font-family: Georgia;
+    width: 80px;
+    height: 30px;
+    font-size: 25px;    
+}
+
+#button {
+        font-family: Georgia;
+        font-size: 25px;
+        font-weight: bold;
+        width: 465px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-radius: 10px;
+        background-color: black;
+        border: solid 1px white;
+        color: white;
+        outline: none;
+        margin-right: 20px;
+}
+
+#button:hover {
+        color: black;
+        background-color: white;
+        cursor: pointer;
+        border: solid 1px black;
+}
